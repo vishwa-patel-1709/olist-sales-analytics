@@ -1,0 +1,5 @@
+# Raw data is downloadable from Kaggle and too large for GitHub
+data/raw/
+*.duckdb
+*.duckdb.wal
+__pycache__/
